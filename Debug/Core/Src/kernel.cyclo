@@ -1,0 +1,10 @@
+../Core/Src/kernel.c:8:6:osKernelInitialize	1
+../Core/Src/kernel.c:29:11:allocateStack	2
+../Core/Src/kernel.c:45:11:setup_stack	1
+../Core/Src/kernel.c:67:9:findThreadByTID	3
+../Core/Src/kernel.c:76:6:osCreateThread	3
+../Core/Src/kernel.c:108:6:osCreateThreadWithDeadline	1
+../Core/Src/kernel.c:120:6:osKernelStart	2
+../Core/Src/kernel.c:130:6:osYield	1
+../Core/Src/kernel.c:136:6:osSched	2
+../Core/Src/kernel.c:149:6:SVC_Handler_Main	3
